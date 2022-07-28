@@ -5,7 +5,8 @@
 - `padding`
 - `border`
 - `select` tag
-  > example
+
+> example
 
 ```html
 <button>Submit</button>
@@ -60,5 +61,7 @@ option {
 ---
 
 #### It took 5hr to comple this project
+
+![Project05](thumbnail.png)
 
 **_Live link_** [Project05](link "project05")
